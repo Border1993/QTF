@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QTF.Plugins", "QTF.Plugins.csproj", "{DC05337E-43EB-4DEA-FED1-18A8DDF6E43E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QTF", "QTF.csproj", "{26CEC51C-31C4-22C6-99CF-8FAF950BB813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QTF.Editor.Plugins", "QTF.Editor.Plugins.csproj", "{E4CEB2AA-14E2-9637-D341-0376EC5F1F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC05337E-43EB-4DEA-FED1-18A8DDF6E43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC05337E-43EB-4DEA-FED1-18A8DDF6E43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC05337E-43EB-4DEA-FED1-18A8DDF6E43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC05337E-43EB-4DEA-FED1-18A8DDF6E43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26CEC51C-31C4-22C6-99CF-8FAF950BB813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CEC51C-31C4-22C6-99CF-8FAF950BB813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CEC51C-31C4-22C6-99CF-8FAF950BB813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CEC51C-31C4-22C6-99CF-8FAF950BB813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4CEB2AA-14E2-9637-D341-0376EC5F1F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CEB2AA-14E2-9637-D341-0376EC5F1F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CEB2AA-14E2-9637-D341-0376EC5F1F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CEB2AA-14E2-9637-D341-0376EC5F1F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
